@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando .Net e C#
 - 📫 Contato por Email: braziltaiany1@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 
 <div>
   <a href="https://github.com/braziltaiany">
