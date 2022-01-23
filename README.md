@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Taiany Brazil 👋
 
 - 🌱 Estou estudando .Net e C#
-- 📫 Contato por Email: braziltaiany1@gmail.com
 - 😄 Pronome: ela/dela
 
 <div>
@@ -23,7 +22,6 @@
 <div> 
  
 
-  <a href = "mailto:braziltaiany1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/taianybrazil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
