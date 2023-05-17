@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Taiany Brazil 👋
 
-- 🌱 Estou estudando .Net e C#
+- 🌱 Estou estudando .Net e Angular
 - 😄 Pronome: ela/dela
 
 <div>
