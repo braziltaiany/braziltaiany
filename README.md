@@ -2,7 +2,7 @@
 Apaixonada por tecnologia🧡 e em constante aprendizado🌱.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taianybrazil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bf91f2)](https://www.linkedin.com/in/taianybrazil/)
 
 ## Habilidades
 - 👩🏻‍💻Developer at Avanade
@@ -19,16 +19,16 @@ Apaixonada por tecnologia🧡 e em constante aprendizado🌱.
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bf91f2)
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-1a1b26?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=bf91f2)  
 ![Elasticsearch](https://img.shields.io/badge/Elastic_Search-1a1b26?style=for-the-badge&logo=elasticsearch&logoColor=bf91f2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=PostgreSQL&logoColor=bf91f2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=PostgreSQL&logoColor=bf91f2)  
 
 ## GitHub Stats e Linguagens mais usadas
 <div>
   <a href="https://github.com/braziltaiany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braziltaiany&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braziltaiany&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div>  
 
 ## Snake animation
- ![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
 
 
