@@ -1,31 +1,34 @@
 ### Olá! Eu sou a Taiany Brazil 👋
+Apaixonada por tecnologia🧡 e em constante aprendizado🌱.
 
-- 🌱 Estou trabalhando com .net e angular
-- 😄 Pronome: ela/dela
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taianybrazil/)
 
+## Habilidades
+- 👩🏻‍💻Developer at Avanade
+-  3x Azure Certifications
+-  Full Stack Developer
+-  Software Engineer
+
+![Csharp](https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bf91f2)
+![Angular](https://img.shields.io/badge/angular-1a1b26?style=for-the-badge&logo=angular&logoColor=bf91f2)
+![HTML](https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=bf91f2) 
+![CSS](https://img.shields.io/badge/CSS-1a1b26?style=for-the-badge&logo=css3&logoColor=bf91f2)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typeScript&logoColor=bf91f2)  
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=bf91f2)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bf91f2)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-1a1b26?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=bf91f2)  
+![Elasticsearch](https://img.shields.io/badge/Elastic_Search-1a1b26?style=for-the-badge&logo=elasticsearch&logoColor=bf91f2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=PostgreSQL&logoColor=bf91f2)
+
+## GitHub Stats e Linguagens mais usadas
 <div>
   <a href="https://github.com/braziltaiany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braziltaiany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braziltaiany&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=braziltaiany&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braziltaiany&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-</div>
- 
-  ##
 
-<div> 
- 
-
-  <a href= "https://www.linkedin.com/in/taianybrazil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-  
+## Snake animation
  ![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
 
 
