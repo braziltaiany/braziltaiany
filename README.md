@@ -5,11 +5,6 @@ Apaixonada por tecnologia🧡 e em constante aprendizado🌱.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bf91f2)](https://www.linkedin.com/in/taianybrazil/)
 
 ## Habilidades
-- 👩🏻‍💻Developer at Avanade
--  3x Azure Certifications
--  Full Stack Developer
--  Software Engineer
-
 ![Csharp](https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=bf91f2)
 ![Angular](https://img.shields.io/badge/angular-1a1b26?style=for-the-badge&logo=angular&logoColor=bf91f2)
 ![HTML](https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=bf91f2) 
