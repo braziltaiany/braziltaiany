@@ -1,5 +1,9 @@
-### Olá! Eu sou a Taiany Brazil 👋
-Apaixonada por tecnologia🧡 e em constante aprendizado🌱.
+### Sobre Mim
+👋 Olá! Eu sou a Taiany Brazil! \
+👩🏻‍💻 Sou Desenvolvedora FullStack na Avanade. \
+🧠 Graduada em Tecnologia da Informação e 3x Azure Certifications. \
+🛠️ Minha principal stack é .net C# com Angular. \
+🧡 Apaixonada por tecnologia e em constante aprendizado🌱. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bf91f2)](https://www.linkedin.com/in/taianybrazil/)
