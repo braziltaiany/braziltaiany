@@ -8,7 +8,12 @@
 ---
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bf91f2)](https://www.linkedin.com/in/taianybrazil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=bf91f2)](https://www.linkedin.com/in/taianybrazil/) 
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-1a1b26?style=for-the-badge&logo=bee&logoColor=ffdb58)](https://www.beecrowd.com.br/judge/pt/profile/595932)
+[![Credly](https://img.shields.io/badge/Credly-1a1b26?style=for-the-badge&logo=credly&logoColor=fdbf2e)](https://www.credly.com/users/taiany-alves-brazil-venancio)
+[![Dio](https://img.shields.io/badge/Dio-1a1b26?style=for-the-badge&logo=dio&logoColor=01b6e3)](https://www.dio.me/users/braziltaiany)
+[![Alura](https://img.shields.io/badge/Alura-1a1b26?style=for-the-badge&logo=alura&logoColor=44b3c2)](https://cursos.alura.com.br/user/braziltaiany)
+
 
 ---
 
